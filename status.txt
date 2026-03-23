@@ -1,4 +1,4 @@
 https://tuk.chat
-https://tuk-mn36py0t-0.artemgamaunov.workers.dev
-https://tuk-mn36q2vt-1.artemgamaunov.workers.dev
-https://tuk-mn36q6ko-2.artemgamaunov.workers.dev
+https://tuk-mn36q5h4-0.artemgamaunov.workers.dev
+https://tuk-mn36q85s-1.artemgamaunov.workers.dev
+https://tuk-mn36qaxu-2.artemgamaunov.workers.dev
